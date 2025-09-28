@@ -134,7 +134,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-4">Get In Touch</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Ready to start your next project? We'd love to hear from you.
+              Ready to start your next project? We&apos;d love to hear from you.
             </p>
           </div>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
